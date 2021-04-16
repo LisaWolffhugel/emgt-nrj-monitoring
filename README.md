@@ -6,7 +6,7 @@ Goal of this project is to show how we can use atoti lib to compute cost and con
 
 ### V3 - 15-04-2021 
 This V3 is only reading data from csv, and the model have been changed to look like this : 
-!(schema V3)[./img/schema-V3-15-04-2021.PNG]
+!(schema V3)[https://github.com/LisaWolffhugel/emgt-nrj-monitoring/blob/master/img/schema-V3-15-4-2021.PNG]
 
 At this stage most of the measures have been created and are working pretty well except : 
  * date_shift which is a known issue : https://github.com/atoti/atoti/issues/263
