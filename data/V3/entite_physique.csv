@@ -1,0 +1,96 @@
+﻿ID_unit_physique;Nom_unit;Type_unit;Groupe;PEC;Batiment;Etage
+Groupe UAA;UAA;Groupe;Groupe UAA;;;
+Groupe UAB;UAB;Groupe;Groupe UAB;;;
+PEC 1;1;PEC;Groupe UAA;PEC 1;;
+PEC 2 ;2;PEC;Groupe UAA;PEC 2;;
+PEC 3;3;PEC;Groupe UAB;PEC 3;;
+PEC 4;4;PEC;Groupe UAB;PEC 4;;
+Batiment A;A;Batiment;Groupe UAA;PEC 1;Batiment A;
+Batiment B;B;Batiment;Groupe UAA;PEC 1;Batiment B;
+Batiment C;C;Batiment;Groupe UAA;PEC 2 ;Batiment C;
+Batiment D;D;Batiment;Groupe UAA;PEC 2 ;Batiment D;
+Batiment E;E;Batiment;Groupe UAB;PEC 3;Batiment E;
+Batiment F;F;Batiment;Groupe UAB;PEC 3;Batiment F;
+Batiment G;G;Batiment;Groupe UAB;PEC 4;Batiment G;
+Batiment H;H;Batiment;Groupe UAB;PEC 4;Batiment H;
+Etage 1-Batiment A;1;Etage;Groupe UAA;PEC 1;Batiment A;Etage 1
+Etage 2-Batiment A;2;Etage;Groupe UAA;PEC 1;Batiment A;Etage 2
+Etage 1-Batiment B;1;Etage;Groupe UAA;PEC 1;Batiment B;Etage 1
+Etage 2-Batiment B;2;Etage;Groupe UAA;PEC 1;Batiment B;Etage 2
+Etage 1-Batiment C;1;Etage;Groupe UAA;PEC 2 ;Batiment C;Etage 1
+Etage 2-Batiment C;2;Etage;Groupe UAA;PEC 2 ;Batiment C;Etage 2
+Etage 1-Batiment D;1;Etage;Groupe UAA;PEC 2 ;Batiment D;Etage 1
+Etage 2-Batiment D;2;Etage;Groupe UAA;PEC 2 ;Batiment D;Etage 2
+Etage 1-Batiment E;1;Etage;Groupe UAB;PEC 3;Batiment E;Etage 1
+Etage 2-Batiment E;2;Etage;Groupe UAB;PEC 3;Batiment E;Etage 2
+Etage 1-Batiment F;1;Etage;Groupe UAB;PEC 3;Batiment F;Etage 1
+Etage 2-Batiment F;2;Etage;Groupe UAB;PEC 3;Batiment F;Etage 2
+Etage 1-Batiment G;1;Etage;Groupe UAB;PEC 4;Batiment G;Etage 1
+Etage 2-Batiment G;2;Etage;Groupe UAB;PEC 4;Batiment G;Etage 2
+Etage 1-Batiment H;1;Etage;Groupe UAB;PEC 4;Batiment H;Etage 1
+Etage 2-Batiment H;2;Etage;Groupe UAB;PEC 4;Batiment H;Etage 2
+Complexe Total;Total;Complexe;;;;
+1;Appt 1;Appt;Groupe UAA;PEC 1;Batiment A;Etage 1
+2;Appt 2;Appt;Groupe UAA;PEC 1;Batiment A;Etage 1
+3;Appt 3;Appt;Groupe UAA;PEC 1;Batiment A;Etage 2
+4;Appt 4;Appt;Groupe UAA;PEC 1;Batiment A;Etage 2
+5;Appt 5;Appt;Groupe UAA;PEC 1;Batiment A;Etage 1
+6;Appt 6;Appt;Groupe UAA;PEC 1;Batiment A;Etage 1
+7;Appt 7;Appt;Groupe UAA;PEC 1;Batiment A;Etage 2
+8;Appt 8;Appt;Groupe UAA;PEC 1;Batiment A;Etage 2
+9;Appt 9;Appt;Groupe UAA;PEC 1;Batiment B;Etage 1
+10;Appt 10;Appt;Groupe UAA;PEC 1;Batiment B;Etage 1
+11;Appt 11;Appt;Groupe UAA;PEC 1;Batiment B;Etage 2
+12;Appt 12;Appt;Groupe UAA;PEC 1;Batiment B;Etage 2
+13;Appt 13;Appt;Groupe UAA;PEC 1;Batiment B;Etage 1
+14;Appt 14;Appt;Groupe UAA;PEC 1;Batiment B;Etage 1
+15;Appt 15;Appt;Groupe UAA;PEC 1;Batiment B;Etage 2
+16;Appt 16;Appt;Groupe UAA;PEC 1;Batiment B;Etage 2
+17;Appt 17;Appt;Groupe UAA;PEC 2;Batiment C;Etage 1
+18;Appt 18;Appt;Groupe UAA;PEC 2;Batiment C;Etage 1
+19;Appt 19;Appt;Groupe UAA;PEC 2;Batiment C;Etage 2
+20;Appt 20;Appt;Groupe UAA;PEC 2;Batiment C;Etage 2
+21;Appt 21;Appt;Groupe UAA;PEC 2;Batiment C;Etage 1
+22;Appt 22;Appt;Groupe UAA;PEC 2;Batiment C;Etage 1
+23;Appt 23;Appt;Groupe UAA;PEC 2;Batiment C;Etage 2
+24;Appt 24;Appt;Groupe UAA;PEC 2;Batiment C;Etage 2
+25;Appt 25;Appt;Groupe UAA;PEC 2;Batiment D;Etage 1
+26;Appt 26;Appt;Groupe UAA;PEC 2;Batiment D;Etage 1
+27;Appt 27;Appt;Groupe UAA;PEC 2;Batiment D;Etage 2
+28;Appt 28;Appt;Groupe UAA;PEC 2;Batiment D;Etage 2
+29;Appt 29;Appt;Groupe UAA;PEC 2;Batiment D;Etage 1
+30;Appt 30;Appt;Groupe UAA;PEC 2;Batiment D;Etage 1
+31;Appt 31;Appt;Groupe UAA;PEC 2;Batiment D;Etage 2
+32;Appt 32;Appt;Groupe UAA;PEC 2;Batiment D;Etage 2
+33;Appt 33;Appt;Groupe UAB;PEC 3;Batiment E;Etage 1
+34;Appt 34;Appt;Groupe UAB;PEC 3;Batiment E;Etage 1
+35;Appt 35;Appt;Groupe UAB;PEC 3;Batiment E;Etage 2
+36;Appt 36;Appt;Groupe UAB;PEC 3;Batiment E;Etage 2
+37;Appt 37;Appt;Groupe UAB;PEC 3;Batiment E;Etage 1
+38;Appt 38;Appt;Groupe UAB;PEC 3;Batiment E;Etage 1
+39;Appt 39;Appt;Groupe UAB;PEC 3;Batiment E;Etage 2
+40;Appt 40;Appt;Groupe UAB;PEC 3;Batiment E;Etage 2
+41;Appt 41;Appt;Groupe UAB;PEC 3;Batiment F;Etage 1
+42;Appt 42;Appt;Groupe UAB;PEC 3;Batiment F;Etage 1
+43;Appt 43;Appt;Groupe UAB;PEC 3;Batiment F;Etage 2
+44;Appt 44;Appt;Groupe UAB;PEC 3;Batiment F;Etage 2
+45;Appt 45;Appt;Groupe UAB;PEC 3;Batiment F;Etage 1
+46;Appt 46;Appt;Groupe UAB;PEC 3;Batiment F;Etage 1
+47;Appt 47;Appt;Groupe UAB;PEC 3;Batiment F;Etage 2
+48;Appt 48;Appt;Groupe UAB;PEC 3;Batiment F;Etage 2
+49;Appt 49;Appt;Groupe UAB;PEC 4;Batiment G;Etage 1
+50;Appt 50;Appt;Groupe UAB;PEC 4;Batiment G;Etage 1
+51;Appt 51;Appt;Groupe UAB;PEC 4;Batiment G;Etage 2
+52;Appt 52;Appt;Groupe UAB;PEC 4;Batiment G;Etage 2
+53;Appt 53;Appt;Groupe UAB;PEC 4;Batiment G;Etage 1
+54;Appt 54;Appt;Groupe UAB;PEC 4;Batiment G;Etage 1
+55;Appt 55;Appt;Groupe UAB;PEC 4;Batiment G;Etage 2
+56;Appt 56;Appt;Groupe UAB;PEC 4;Batiment G;Etage 2
+57;Appt 57;Appt;Groupe UAB;PEC 4;Batiment H;Etage 1
+58;Appt 58;Appt;Groupe UAB;PEC 4;Batiment H;Etage 1
+59;Appt 59;Appt;Groupe UAB;PEC 4;Batiment H;Etage 2
+60;Appt 60;Appt;Groupe UAB;PEC 4;Batiment H;Etage 2
+61;Appt 61;Appt;Groupe UAB;PEC 4;Batiment H;Etage 1
+62;Appt 62;Appt;Groupe UAB;PEC 4;Batiment H;Etage 1
+63;Appt 63;Appt;Groupe UAB;PEC 4;Batiment H;Etage 2
+64;Appt 64;Appt;Groupe UAB;PEC 4;Batiment H;Etage 2

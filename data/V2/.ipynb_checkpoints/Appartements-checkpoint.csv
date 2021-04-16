@@ -1,0 +1,65 @@
+﻿ID_appt;Nom_Locataire;Profil;Lot;Groupe;PEC;Batiment;Etage;Cage;Nb_pieces;Surface;Adresse;Gerance
+1;John Kelly;App.;UAA-1-A-1-E;Groupe UAA;PEC 1;Batiment Batiment A;Etage 1;Cage E;4.5;105;350 avenue de Geneve- batiment A- appartement 101- 1200 Geneve;Immobilier AG
+2;François Grand;App.;UAA-1-A-1-F;Groupe UAA;PEC 1;Batiment Batiment A;Etage 1;Cage F;2.5;60;350 avenue de Geneve- batiment A- appartement 102- 1200 Geneve;Immobilier AG
+3;Louise Bedena;App.;UAA-1-A-2-E;Groupe UAA;PEC 1;Batiment Batiment A;Etage 2;Cage E;2.5;56;350 avenue de Geneve- batiment A- appartement 203- 1200 Geneve;Immobilier AG
+4;Laure Trivio;App.;UAA-1-A-2-F;Groupe UAA;PEC 1;Batiment Batiment A;Etage 2;Cage F;1.5;39;350 avenue de Geneve- batiment A- appartement 204- 1200 Geneve;Immobilier AG
+5;Julien Petit;PPE;UAA-1-A-1-E;Groupe UAA;PEC 1;Batiment Batiment A;Etage 1;Cage E;2.5;56;350 avenue de Geneve- batiment A- appartement 105- 1200 Geneve;Immobilier AG
+6;Laura Belle;PPE;UAA-1-A-1-F;Groupe UAA;PEC 1;Batiment Batiment A;Etage 1;Cage F;3.5;85;350 avenue de Geneve- batiment A- appartement 106- 1200 Geneve;Immobilier AG
+7;Patrick Beaudin;PPE;UAA-1-A-2-E;Groupe UAA;PEC 1;Batiment Batiment A;Etage 2;Cage E;2.5;67;350 avenue de Geneve- batiment A- appartement 207- 1200 Geneve;Immobilier AG
+8;Anne Geniquet;Séniors;UAA-1-A-2-F;Groupe UAA;PEC 1;Batiment Batiment A;Etage 2;Cage F;3.5;84;350 avenue de Geneve- batiment A- appartement 208- 1200 Geneve;Immobilier AG
+9;Marie Litio;Séniors;UAA-1-B-1-E;Groupe UAA;PEC 1;Batiment B;Etage 1;Cage E;1;32;350 avenue de Geneve- batiment B- appartement 109- 1200 Geneve;Immobilier AG
+10;Horace Sluggorn;App.;UAA-1-B-1-F;Groupe UAA;PEC 1;Batiment B;Etage 1;Cage F;2.5;64;350 avenue de Geneve- batiment B- appartement 1010- 1200 Geneve;Immobilier AG
+11;Samuel Dwarf;App.;UAA-1-B-2-E;Groupe UAA;PEC 1;Batiment B;Etage 2;Cage E;3.5;87;350 avenue de Geneve- batiment B- appartement 2011- 1200 Geneve;Immobilier AG
+12;Quentin Tarent;App.;UAA-1-B-2-F;Groupe UAA;PEC 1;Batiment B;Etage 2;Cage F;2.5;61;350 avenue de Geneve- batiment B- appartement 2012- 1200 Geneve;Immobilier AG
+13;Marion Benoim;App.;UAA-1-B-1-E;Groupe UAA;PEC 1;Batiment B;Etage 1;Cage E;4.5;100;350 avenue de Geneve- batiment B- appartement 1013- 1200 Geneve;Immobilier AG
+14;Ali Ben souafa;PPE;UAA-1-B-1-F;Groupe UAA;PEC 1;Batiment B;Etage 1;Cage F;3.5;71;350 avenue de Geneve- batiment B- appartement 1014- 1200 Geneve;Immobilier AG
+15;Maria Bebilo;PPE;UAA-1-B-2-E;Groupe UAA;PEC 1;Batiment B;Etage 2;Cage E;4.5;107;350 avenue de Geneve- batiment B- appartement 2015- 1200 Geneve;Immobilier AG
+16;Vanessa Waoul;PPE;UAA-1-B-2-F;Groupe UAA;PEC 1;Batiment B;Etage 2;Cage F;2.5;60;350 avenue de Geneve- batiment B- appartement 2016- 1200 Geneve;Immobilier AG
+17;Georges Filop;Séniors;UAA-2-A-1-E;Groupe UAA;PEC 2;Batiment Batiment A;Etage 1;Cage E;2.5;61;350 avenue de Geneve- batiment A- appartement 1017- 1200 Geneve;Immobilier AG
+18;Benoit France;Séniors;UAA-2-A-1-F;Groupe UAA;PEC 2;Batiment Batiment A;Etage 1;Cage F;3.5;87;350 avenue de Geneve- batiment A- appartement 1018- 1200 Geneve;Immobilier AG
+19;Kat belouga;App.;UAA-2-A-2-E;Groupe UAA;PEC 2;Batiment Batiment A;Etage 2;Cage E;4.5;107;350 avenue de Geneve- batiment A- appartement 2019- 1200 Geneve;Immobilier AG
+20;Nathalie Gerard;App.;UAA-2-A-2-F;Groupe UAA;PEC 2;Batiment Batiment A;Etage 2;Cage F;1;34;350 avenue de Geneve- batiment A- appartement 2020- 1200 Geneve;Immobilier AG
+21;Mathieu Bontemps;App.;UAA-2-A-1-E;Groupe UAA;PEC 2;Batiment Batiment A;Etage 1;Cage E;1;43;350 avenue de Geneve- batiment A- appartement 1021- 1200 Geneve;Immobilier AG
+22;Patricia Blanc;App.;UAA-2-A-1-F;Groupe UAA;PEC 2;Batiment Batiment A;Etage 1;Cage F;3.5;96;350 avenue de Geneve- batiment A- appartement 1022- 1200 Geneve;Immobilier AG
+23;Johanna Remalo;PPE;UAA-2-A-2-E;Groupe UAA;PEC 2;Batiment Batiment A;Etage 2;Cage E;2.5;51;350 avenue de Geneve- batiment A- appartement 2023- 1200 Geneve;Immobilier AG
+24;Auriane Walou ;PPE;UAA-2-A-2-F;Groupe UAA;PEC 2;Batiment Batiment A;Etage 2;Cage F;2.5;61;350 avenue de Geneve- batiment A- appartement 2024- 1200 Geneve;Immobilier AG
+25;Boris Tschimtt;PPE;UAA-2-B-1-E;Groupe UAA;PEC 2;Batiment B;Etage 1;Cage E;2.5;61;350 avenue de Geneve- batiment B- appartement 1025- 1200 Geneve;Immobilier AG
+26;Felix faure;Séniors;UAA-2-B-1-F;Groupe UAA;PEC 2;Batiment B;Etage 1;Cage F;4.5;105;350 avenue de Geneve- batiment B- appartement 1026- 1200 Geneve;Immobilier AG
+27;Arthur Pouton;Séniors;UAA-2-B-2-E;Groupe UAA;PEC 2;Batiment B;Etage 2;Cage E;2.5;60;350 avenue de Geneve- batiment B- appartement 2027- 1200 Geneve;Immobilier AG
+28;Marie Lelou;App.;UAA-2-B-2-F;Groupe UAA;PEC 2;Batiment B;Etage 2;Cage F;2.5;56;350 avenue de Geneve- batiment B- appartement 2028- 1200 Geneve;Immobilier AG
+29;Franck Bodol;App.;UAA-2-B-1-E;Groupe UAA;PEC 2;Batiment B;Etage 1;Cage E;1.5;39;350 avenue de Geneve- batiment B- appartement 1029- 1200 Geneve;Immobilier AG
+30;Thierry Lamal;App.;UAA-2-B-1-F;Groupe UAA;PEC 2;Batiment B;Etage 1;Cage F;2.5;56;350 avenue de Geneve- batiment B- appartement 1030- 1200 Geneve;Immobilier AG
+31;Mario Martin;App.;UAA-2-B-2-E;Groupe UAA;PEC 2;Batiment B;Etage 2;Cage E;3.5;85;350 avenue de Geneve- batiment B- appartement 2031- 1200 Geneve;Immobilier AG
+32;Cathia Profilop;PPE;UAA-2-B-2-F;Groupe UAA;PEC 2;Batiment B;Etage 2;Cage F;2.5;67;350 avenue de Geneve- batiment B- appartement 2032- 1200 Geneve;Immobilier AG
+33;Helene Francion;PPE;UAB-1-A-1-E;Groupe UAB;PEC 1;Batiment Batiment A;Etage 1;Cage E;3.5;84;350 avenue de Geneve- batiment A- appartement 1033- 1200 Geneve;Immobilier AG
+34;Olivier Parled;PPE;UAB-1-A-1-F;Groupe UAB;PEC 1;Batiment Batiment A;Etage 1;Cage F;1;32;350 avenue de Geneve- batiment A- appartement 1034- 1200 Geneve;Immobilier AG
+35;Yves Xilos;Séniors;UAB-1-A-2-E;Groupe UAB;PEC 1;Batiment Batiment A;Etage 2;Cage E;2.5;64;350 avenue de Geneve- batiment A- appartement 2035- 1200 Geneve;Immobilier AG
+36;Xavier Pelas;Séniors;UAB-1-A-2-F;Groupe UAB;PEC 1;Batiment Batiment A;Etage 2;Cage F;3.5;87;350 avenue de Geneve- batiment A- appartement 2036- 1200 Geneve;Immobilier AG
+37;Sophie Samuel;App.;UAB-1-A-1-E;Groupe UAB;PEC 1;Batiment Batiment A;Etage 1;Cage E;2.5;61;350 avenue de Geneve- batiment A- appartement 1037- 1200 Geneve;Immobilier AG
+38;Lilas Youp;App.;UAB-1-A-1-F;Groupe UAB;PEC 1;Batiment Batiment A;Etage 1;Cage F;4.5;100;350 avenue de Geneve- batiment A- appartement 1038- 1200 Geneve;Immobilier AG
+39;Vincent Viou;App.;UAB-1-A-2-E;Groupe UAB;PEC 1;Batiment Batiment A;Etage 2;Cage E;3.5;71;350 avenue de Geneve- batiment A- appartement 2039- 1200 Geneve;Immobilier AG
+40;Huifang Yaow;App.;UAB-1-A-2-F;Groupe UAB;PEC 1;Batiment Batiment A;Etage 2;Cage F;4.5;107;350 avenue de Geneve- batiment A- appartement 2040- 1200 Geneve;Immobilier AG
+41;Ted Jamisson;PPE;UAB-1-B-1-E;Groupe UAB;PEC 1;Batiment B;Etage 1;Cage E;2.5;60;350 avenue de Geneve- batiment B- appartement 1041- 1200 Geneve;Immobilier AG
+42;Nida Bokil;PPE;UAB-1-B-1-F;Groupe UAB;PEC 1;Batiment B;Etage 1;Cage F;2.5;61;350 avenue de Geneve- batiment B- appartement 1042- 1200 Geneve;Immobilier AG
+43;Maria Youxil;PPE;UAB-1-B-2-E;Groupe UAB;PEC 1;Batiment B;Etage 2;Cage E;3.5;87;350 avenue de Geneve- batiment B- appartement 2043- 1200 Geneve;Immobilier AG
+44;Nina Brkla;Séniors;UAB-1-B-2-F;Groupe UAB;PEC 1;Batiment B;Etage 2;Cage F;4.5;107;350 avenue de Geneve- batiment B- appartement 2044- 1200 Geneve;Immobilier AG
+45;Emma Falios;Séniors;UAB-1-B-1-E;Groupe UAB;PEC 1;Batiment B;Etage 1;Cage E;1;34;350 avenue de Geneve- batiment B- appartement 1045- 1200 Geneve;Immobilier AG
+46;Sarah Raffot;App.;UAB-1-B-1-F;Groupe UAB;PEC 1;Batiment B;Etage 1;Cage F;1;43;350 avenue de Geneve- batiment B- appartement 1046- 1200 Geneve;Immobilier AG
+47;Peter Potorof ;App.;UAB-1-B-2-E;Groupe UAB;PEC 1;Batiment B;Etage 2;Cage E;3.5;96;350 avenue de Geneve- batiment B- appartement 2047- 1200 Geneve;Immobilier AG
+48;Zhang Yin;App.;UAB-1-B-2-F;Groupe UAB;PEC 1;Batiment B;Etage 2;Cage F;2.5;51;350 avenue de Geneve- batiment B- appartement 2048- 1200 Geneve;Immobilier AG
+49;MingKong Wu;App.;UAB-2-A-1-E;Groupe UAB;PEC 2;Batiment Batiment A;Etage 1;Cage E;2.5;61;350 avenue de Geneve- batiment A- appartement 1049- 1200 Geneve;Immobilier AG
+50;Olympe Grilo;PPE;UAB-2-A-1-F;Groupe UAB;PEC 2;Batiment Batiment A;Etage 1;Cage F;2.5;61;350 avenue de Geneve- batiment A- appartement 1050- 1200 Geneve;Immobilier AG
+51;Melanie Drou;PPE;UAB-2-A-2-E;Groupe UAB;PEC 2;Batiment Batiment A;Etage 2;Cage E;2.5;60;350 avenue de Geneve- batiment A- appartement 2051- 1200 Geneve;Immobilier AG
+52;Melanie Niger;PPE;UAB-2-A-2-F;Groupe UAB;PEC 2;Batiment Batiment A;Etage 2;Cage F;2.5;58;350 avenue de Geneve- batiment A- appartement 2052- 1200 Geneve;Immobilier AG
+53;Noelle Permlo;Séniors;UAB-2-A-1-E;Groupe UAB;PEC 2;Batiment Batiment A;Etage 1;Cage E;2.5;58;350 avenue de Geneve- batiment A- appartement 1053- 1200 Geneve;Immobilier AG
+54;Anais Derta;Séniors;UAB-2-A-1-F;Groupe UAB;PEC 2;Batiment Batiment A;Etage 1;Cage F;2.5;57;350 avenue de Geneve- batiment A- appartement 1054- 1200 Geneve;Immobilier AG
+55;Peneloppe Loji;App.;UAB-2-A-2-E;Groupe UAB;PEC 2;Batiment Batiment A;Etage 2;Cage E;2.5;58;350 avenue de Geneve- batiment A- appartement 2055- 1200 Geneve;Immobilier AG
+56;Frederic Kijo;App.;UAB-2-A-2-F;Groupe UAB;PEC 2;Batiment Batiment A;Etage 2;Cage F;2.5;58;350 avenue de Geneve- batiment A- appartement 2056- 1200 Geneve;Immobilier AG
+57;Basile Huila;App.;UAB-2-B-1-E;Groupe UAB;PEC 2;Batiment B;Etage 1;Cage E;2.5;58;350 avenue de Geneve- batiment B- appartement 1057- 1200 Geneve;Immobilier AG
+58;Lisa Wolff;App.;UAB-2-B-1-F;Groupe UAB;PEC 2;Batiment B;Etage 1;Cage F;2.5;57;350 avenue de Geneve- batiment B- appartement 1058- 1200 Geneve;Immobilier AG
+59;Lilou Grubo;PPE;UAB-2-B-2-E;Groupe UAB;PEC 2;Batiment B;Etage 2;Cage E;2.5;68;350 avenue de Geneve- batiment B- appartement 2059- 1200 Geneve;Immobilier AG
+60;Lucas Vilo;PPE;UAB-2-B-2-F;Groupe UAB;PEC 2;Batiment B;Etage 2;Cage F;3.5;94;350 avenue de Geneve- batiment B- appartement 2060- 1200 Geneve;Immobilier AG
+61;Charlotte Jyiopo;PPE;UAB-2-B-1-E;Groupe UAB;PEC 2;Batiment B;Etage 1;Cage E;2.5;61;350 avenue de Geneve- batiment B- appartement 1061- 1200 Geneve;Immobilier AG
+62;Margaux Framion;Séniors;UAB-2-B-1-F;Groupe UAB;PEC 2;Batiment B;Etage 1;Cage F;2.5;61;350 avenue de Geneve- batiment B- appartement 1062- 1200 Geneve;Immobilier AG
+63;Pascal Scar;Séniors;UAB-2-B-2-E;Groupe UAB;PEC 2;Batiment B;Etage 2;Cage E;3.5;87;350 avenue de Geneve- batiment B- appartement 2063- 1200 Geneve;Immobilier AG
+64;Gino Premion;App.;UAB-2-B-2-F;Groupe UAB;PEC 2;Batiment B;Etage 2;Cage F;4.5;107;350 avenue de Geneve- batiment B- appartement 2064- 1200 Geneve;Immobilier AG

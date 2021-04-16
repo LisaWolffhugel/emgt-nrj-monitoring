@@ -1,0 +1,227 @@
+﻿ID_compteur;Type_compteur;Unite;Type_intervalle;Type_aggregation;Niveau;ID_unit
+Facture_eau_CHF_1_Complexe Total;Facture_eau;CHF;Semaine;SUM;1;Complexe Total
+Facture_chaud_CHF_1_Complexe Total;Facture_chaud;CHF;Semaine;SUM;1;Complexe Total
+chaud_kWh_1_Complexe Total;chaud;kWh;Semaine;SUM;1;Complexe Total
+froid_m3_1_Complexe Total;froid;m3;Semaine;SUM;1;Complexe Total
+ECS_kWh_2_Groupe UAA;ECS;kWh;Jour;DIFF;2;Groupe UAA
+chauffage_kWh_2_Groupe UAA;chauffage;kWh;Jour;DIFF;2;Groupe UAA
+eau_froide_m3_2_Groupe UAA;eau_froide;m3;Jour;DIFF;2;Groupe UAA
+ECS_kWh_2_Groupe UAB;ECS;kWh;Jour;DIFF;2;Groupe UAB
+chauffage_kWh_2_Groupe UAB;chauffage;kWh;Jour;DIFF;2;Groupe UAB
+eau_froide_m3_2_Groupe UAB;eau_froide;m3;Jour;DIFF;2;Groupe UAB
+ECS_kWh_2_PEC 1;ECS;kWh;Jour;DIFF;2;PEC 1
+chauffage_kWh_2_PEC 1;chauffage;kWh;Jour;DIFF;2;PEC 1
+eau_froide_m3_2_PEC 1;eau_froide;m3;Jour;DIFF;2;PEC 1
+ECS_kWh_2_PEC 2;ECS;kWh;Jour;DIFF;2;PEC 2
+chauffage_kWh_2_PEC 2;chauffage;kWh;Jour;DIFF;2;PEC 2
+eau_froide_m3_2_PEC 2;eau_froide;m3;Jour;DIFF;2;PEC 2
+ECS_kWh_2_Batiment A;ECS;kWh;Jour;DIFF;2;Batiment A
+chauffage_kWh_2_Batiment A;chauffage;kWh;Jour;DIFF;2;Batiment A
+eau_froide_m3_2_Batiment A;eau_froide;m3;Jour;DIFF;2;Batiment A
+ECS_kWh_2_Batiment B;ECS;kWh;Jour;DIFF;2;Batiment B
+chauffage_kWh_2_Batiment B;chauffage;kWh;Jour;DIFF;2;Batiment B
+eau_froide_m3_2_Batiment B;eau_froide;m3;Jour;DIFF;2;Batiment B
+ECS_kWh_2_Etage 1;ECS;kWh;Jour;DIFF;2;Etage 1
+chauffage_kWh_2_Etage 1;chauffage;kWh;Jour;DIFF;2;Etage 1
+eau_froide_m3_2_Etage 1;eau_froide;m3;Jour;DIFF;2;Etage 1
+ECS_kWh_2_Etage 2;ECS;kWh;Jour;DIFF;2;Etage 2
+chauffage_kWh_2_Etage 2;chauffage;kWh;Jour;DIFF;2;Etage 2
+eau_froide_m3_2_Etage 2;eau_froide;m3;Jour;DIFF;2;Etage 2
+ECS_kWh_2_Cage E;ECS;kWh;Jour;DIFF;2;Cage E
+chauffage_kWh_2_Cage E;chauffage;kWh;Jour;DIFF;2;Cage E
+eau_froide_m3_2_Cage E;eau_froide;m3;Jour;DIFF;2;Cage E
+ECS_kWh_2_Cage F;ECS;kWh;Jour;DIFF;2;Cage F
+chauffage_kWh_2_Cage F;chauffage;kWh;Jour;DIFF;2;Cage F
+eau_froide_m3_2_Cage F;eau_froide;m3;Jour;DIFF;2;Cage F
+ECS_kWh_3_1;ECS;kWh;Jour;DIFF;3;1
+chauffage_kWh_3_1;chauffage;kWh;Jour;DIFF;3;1
+eau_froide_m3_3_1;eau_froide;m3;Jour;DIFF;3;1
+ECS_kWh_3_2;ECS;kWh;Jour;DIFF;3;2
+chauffage_kWh_3_2;chauffage;kWh;Jour;DIFF;3;2
+eau_froide_m3_3_2;eau_froide;m3;Jour;DIFF;3;2
+ECS_kWh_3_3;ECS;kWh;Jour;DIFF;3;3
+chauffage_kWh_3_3;chauffage;kWh;Jour;DIFF;3;3
+eau_froide_m3_3_3;eau_froide;m3;Jour;DIFF;3;3
+ECS_kWh_3_4;ECS;kWh;Jour;DIFF;3;4
+chauffage_kWh_3_4;chauffage;kWh;Jour;DIFF;3;4
+eau_froide_m3_3_4;eau_froide;m3;Jour;DIFF;3;4
+ECS_kWh_3_5;ECS;kWh;Jour;DIFF;3;5
+chauffage_kWh_3_5;chauffage;kWh;Jour;DIFF;3;5
+eau_froide_m3_3_5;eau_froide;m3;Jour;DIFF;3;5
+ECS_kWh_3_6;ECS;kWh;Jour;DIFF;3;6
+chauffage_kWh_3_6;chauffage;kWh;Jour;DIFF;3;6
+eau_froide_m3_3_6;eau_froide;m3;Jour;DIFF;3;6
+ECS_kWh_3_7;ECS;kWh;Jour;DIFF;3;7
+chauffage_kWh_3_7;chauffage;kWh;Jour;DIFF;3;7
+eau_froide_m3_3_7;eau_froide;m3;Jour;DIFF;3;7
+ECS_kWh_3_8;ECS;kWh;Jour;DIFF;3;8
+chauffage_kWh_3_8;chauffage;kWh;Jour;DIFF;3;8
+eau_froide_m3_3_8;eau_froide;m3;Jour;DIFF;3;8
+ECS_kWh_3_9;ECS;kWh;Jour;DIFF;3;9
+chauffage_kWh_3_9;chauffage;kWh;Jour;DIFF;3;9
+eau_froide_m3_3_9;eau_froide;m3;Jour;DIFF;3;9
+ECS_kWh_3_10;ECS;kWh;Jour;DIFF;3;10
+chauffage_kWh_3_10;chauffage;kWh;Jour;DIFF;3;10
+eau_froide_m3_3_10;eau_froide;m3;Jour;DIFF;3;10
+ECS_kWh_4_11;ECS;kWh;Jour;DIFF;4;11
+chauffage_kWh_5_11;chauffage;kWh;Jour;DIFF;5;11
+eau_froide_m3_6_11;eau_froide;m3;Jour;DIFF;6;11
+ECS_kWh_3_12;ECS;kWh;Jour;DIFF;3;12
+chauffage_kWh_3_12;chauffage;kWh;Jour;DIFF;3;12
+eau_froide_m3_3_12;eau_froide;m3;Jour;DIFF;3;12
+ECS_kWh_3_13;ECS;kWh;Jour;DIFF;3;13
+chauffage_kWh_3_13;chauffage;kWh;Jour;DIFF;3;13
+eau_froide_m3_3_13;eau_froide;m3;Jour;DIFF;3;13
+ECS_kWh_3_14;ECS;kWh;Jour;DIFF;3;14
+chauffage_kWh_3_14;chauffage;kWh;Jour;DIFF;3;14
+eau_froide_m3_3_14;eau_froide;m3;Jour;DIFF;3;14
+ECS_kWh_3_15;ECS;kWh;Jour;DIFF;3;15
+chauffage_kWh_3_15;chauffage;kWh;Jour;DIFF;3;15
+eau_froide_m3_3_15;eau_froide;m3;Jour;DIFF;3;15
+ECS_kWh_3_16;ECS;kWh;Jour;DIFF;3;16
+chauffage_kWh_3_16;chauffage;kWh;Jour;DIFF;3;16
+eau_froide_m3_3_16;eau_froide;m3;Jour;DIFF;3;16
+ECS_kWh_3_17;ECS;kWh;Jour;DIFF;3;17
+chauffage_kWh_3_17;chauffage;kWh;Jour;DIFF;3;17
+eau_froide_m3_3_17;eau_froide;m3;Jour;DIFF;3;17
+ECS_kWh_3_18;ECS;kWh;Jour;DIFF;3;18
+chauffage_kWh_3_18;chauffage;kWh;Jour;DIFF;3;18
+eau_froide_m3_3_18;eau_froide;m3;Jour;DIFF;3;18
+ECS_kWh_3_19;ECS;kWh;Jour;DIFF;3;19
+chauffage_kWh_3_19;chauffage;kWh;Jour;DIFF;3;19
+eau_froide_m3_3_19;eau_froide;m3;Jour;DIFF;3;19
+ECS_kWh_3_20;ECS;kWh;Jour;DIFF;3;20
+chauffage_kWh_3_20;chauffage;kWh;Jour;DIFF;3;20
+eau_froide_m3_3_20;eau_froide;m3;Jour;DIFF;3;20
+ECS_kWh_3_21;ECS;kWh;Jour;DIFF;3;21
+chauffage_kWh_3_21;chauffage;kWh;Jour;DIFF;3;21
+eau_froide_m3_3_21;eau_froide;m3;Jour;DIFF;3;21
+ECS_kWh_3_22;ECS;kWh;Jour;DIFF;3;22
+chauffage_kWh_3_22;chauffage;kWh;Jour;DIFF;3;22
+eau_froide_m3_3_22;eau_froide;m3;Jour;DIFF;3;22
+ECS_kWh_3_23;ECS;kWh;Jour;DIFF;3;23
+chauffage_kWh_3_23;chauffage;kWh;Jour;DIFF;3;23
+eau_froide_m3_3_23;eau_froide;m3;Jour;DIFF;3;23
+ECS_kWh_3_24;ECS;kWh;Jour;DIFF;3;24
+chauffage_kWh_3_24;chauffage;kWh;Jour;DIFF;3;24
+eau_froide_m3_3_24;eau_froide;m3;Jour;DIFF;3;24
+ECS_kWh_3_25;ECS;kWh;Jour;DIFF;3;25
+chauffage_kWh_3_25;chauffage;kWh;Jour;DIFF;3;25
+eau_froide_m3_3_25;eau_froide;m3;Jour;DIFF;3;25
+ECS_kWh_3_26;ECS;kWh;Jour;DIFF;3;26
+chauffage_kWh_3_26;chauffage;kWh;Jour;DIFF;3;26
+eau_froide_m3_3_26;eau_froide;m3;Jour;DIFF;3;26
+ECS_kWh_3_27;ECS;kWh;Jour;DIFF;3;27
+chauffage_kWh_3_27;chauffage;kWh;Jour;DIFF;3;27
+eau_froide_m3_3_27;eau_froide;m3;Jour;DIFF;3;27
+ECS_kWh_3_28;ECS;kWh;Jour;DIFF;3;28
+chauffage_kWh_3_28;chauffage;kWh;Jour;DIFF;3;28
+eau_froide_m3_3_28;eau_froide;m3;Jour;DIFF;3;28
+ECS_kWh_3_29;ECS;kWh;Jour;DIFF;3;29
+chauffage_kWh_3_29;chauffage;kWh;Jour;DIFF;3;29
+eau_froide_m3_3_29;eau_froide;m3;Jour;DIFF;3;29
+ECS_kWh_3_30;ECS;kWh;Jour;DIFF;3;30
+chauffage_kWh_3_30;chauffage;kWh;Jour;DIFF;3;30
+eau_froide_m3_3_30;eau_froide;m3;Jour;DIFF;3;30
+ECS_kWh_3_31;ECS;kWh;Jour;DIFF;3;31
+chauffage_kWh_3_31;chauffage;kWh;Jour;DIFF;3;31
+eau_froide_m3_3_31;eau_froide;m3;Jour;DIFF;3;31
+ECS_kWh_3_32;ECS;kWh;Jour;DIFF;3;32
+chauffage_kWh_3_32;chauffage;kWh;Jour;DIFF;3;32
+eau_froide_m3_3_32;eau_froide;m3;Jour;DIFF;3;32
+ECS_kWh_3_33;ECS;kWh;Jour;DIFF;3;33
+chauffage_kWh_3_33;chauffage;kWh;Jour;DIFF;3;33
+eau_froide_m3_3_33;eau_froide;m3;Jour;DIFF;3;33
+ECS_kWh_3_34;ECS;kWh;Jour;DIFF;3;34
+chauffage_kWh_3_34;chauffage;kWh;Jour;DIFF;3;34
+eau_froide_m3_3_34;eau_froide;m3;Jour;DIFF;3;34
+ECS_kWh_3_35;ECS;kWh;Jour;DIFF;3;35
+chauffage_kWh_3_35;chauffage;kWh;Jour;DIFF;3;35
+eau_froide_m3_3_35;eau_froide;m3;Jour;DIFF;3;35
+ECS_kWh_3_36;ECS;kWh;Jour;DIFF;3;36
+chauffage_kWh_3_36;chauffage;kWh;Jour;DIFF;3;36
+eau_froide_m3_3_36;eau_froide;m3;Jour;DIFF;3;36
+ECS_kWh_3_37;ECS;kWh;Jour;DIFF;3;37
+chauffage_kWh_3_37;chauffage;kWh;Jour;DIFF;3;37
+eau_froide_m3_3_37;eau_froide;m3;Jour;DIFF;3;37
+ECS_kWh_3_38;ECS;kWh;Jour;DIFF;3;38
+chauffage_kWh_3_38;chauffage;kWh;Jour;DIFF;3;38
+eau_froide_m3_3_38;eau_froide;m3;Jour;DIFF;3;38
+ECS_kWh_3_39;ECS;kWh;Jour;DIFF;3;39
+chauffage_kWh_3_39;chauffage;kWh;Jour;DIFF;3;39
+eau_froide_m3_3_39;eau_froide;m3;Jour;DIFF;3;39
+ECS_kWh_3_40;ECS;kWh;Jour;DIFF;3;40
+chauffage_kWh_3_40;chauffage;kWh;Jour;DIFF;3;40
+eau_froide_m3_3_40;eau_froide;m3;Jour;DIFF;3;40
+ECS_kWh_3_41;ECS;kWh;Jour;DIFF;3;41
+chauffage_kWh_3_41;chauffage;kWh;Jour;DIFF;3;41
+eau_froide_m3_3_41;eau_froide;m3;Jour;DIFF;3;41
+ECS_kWh_3_42;ECS;kWh;Jour;DIFF;3;42
+chauffage_kWh_3_42;chauffage;kWh;Jour;DIFF;3;42
+eau_froide_m3_3_42;eau_froide;m3;Jour;DIFF;3;42
+ECS_kWh_3_43;ECS;kWh;Jour;DIFF;3;43
+chauffage_kWh_3_43;chauffage;kWh;Jour;DIFF;3;43
+eau_froide_m3_3_43;eau_froide;m3;Jour;DIFF;3;43
+ECS_kWh_3_44;ECS;kWh;Jour;DIFF;3;44
+chauffage_kWh_3_44;chauffage;kWh;Jour;DIFF;3;44
+eau_froide_m3_3_44;eau_froide;m3;Jour;DIFF;3;44
+ECS_kWh_3_45;ECS;kWh;Jour;DIFF;3;45
+chauffage_kWh_3_45;chauffage;kWh;Jour;DIFF;3;45
+eau_froide_m3_3_45;eau_froide;m3;Jour;DIFF;3;45
+ECS_kWh_3_46;ECS;kWh;Jour;DIFF;3;46
+chauffage_kWh_3_46;chauffage;kWh;Jour;DIFF;3;46
+eau_froide_m3_3_46;eau_froide;m3;Jour;DIFF;3;46
+ECS_kWh_3_47;ECS;kWh;Jour;DIFF;3;47
+chauffage_kWh_3_47;chauffage;kWh;Jour;DIFF;3;47
+eau_froide_m3_3_47;eau_froide;m3;Jour;DIFF;3;47
+ECS_kWh_3_48;ECS;kWh;Jour;DIFF;3;48
+chauffage_kWh_3_48;chauffage;kWh;Jour;DIFF;3;48
+eau_froide_m3_3_48;eau_froide;m3;Jour;DIFF;3;48
+ECS_kWh_3_49;ECS;kWh;Jour;DIFF;3;49
+chauffage_kWh_3_49;chauffage;kWh;Jour;DIFF;3;49
+eau_froide_m3_3_49;eau_froide;m3;Jour;DIFF;3;49
+ECS_kWh_3_50;ECS;kWh;Jour;DIFF;3;50
+chauffage_kWh_3_50;chauffage;kWh;Jour;DIFF;3;50
+eau_froide_m3_3_50;eau_froide;m3;Jour;DIFF;3;50
+ECS_kWh_3_51;ECS;kWh;Jour;DIFF;3;51
+chauffage_kWh_3_51;chauffage;kWh;Jour;DIFF;3;51
+eau_froide_m3_3_51;eau_froide;m3;Jour;DIFF;3;51
+ECS_kWh_3_52;ECS;kWh;Jour;DIFF;3;52
+chauffage_kWh_3_52;chauffage;kWh;Jour;DIFF;3;52
+eau_froide_m3_3_52;eau_froide;m3;Jour;DIFF;3;52
+ECS_kWh_3_53;ECS;kWh;Jour;DIFF;3;53
+chauffage_kWh_3_53;chauffage;kWh;Jour;DIFF;3;53
+eau_froide_m3_3_53;eau_froide;m3;Jour;DIFF;3;53
+ECS_kWh_3_54;ECS;kWh;Jour;DIFF;3;54
+chauffage_kWh_3_54;chauffage;kWh;Jour;DIFF;3;54
+eau_froide_m3_3_54;eau_froide;m3;Jour;DIFF;3;54
+ECS_kWh_3_55;ECS;kWh;Jour;DIFF;3;55
+chauffage_kWh_3_55;chauffage;kWh;Jour;DIFF;3;55
+eau_froide_m3_3_55;eau_froide;m3;Jour;DIFF;3;55
+ECS_kWh_3_56;ECS;kWh;Jour;DIFF;3;56
+chauffage_kWh_3_56;chauffage;kWh;Jour;DIFF;3;56
+eau_froide_m3_3_56;eau_froide;m3;Jour;DIFF;3;56
+ECS_kWh_3_57;ECS;kWh;Jour;DIFF;3;57
+chauffage_kWh_3_57;chauffage;kWh;Jour;DIFF;3;57
+eau_froide_m3_3_57;eau_froide;m3;Jour;DIFF;3;57
+ECS_kWh_3_58;ECS;kWh;Jour;DIFF;3;58
+chauffage_kWh_3_58;chauffage;kWh;Jour;DIFF;3;58
+eau_froide_m3_3_58;eau_froide;m3;Jour;DIFF;3;58
+ECS_kWh_3_59;ECS;kWh;Jour;DIFF;3;59
+chauffage_kWh_3_59;chauffage;kWh;Jour;DIFF;3;59
+eau_froide_m3_3_59;eau_froide;m3;Jour;DIFF;3;59
+ECS_kWh_3_60;ECS;kWh;Jour;DIFF;3;60
+chauffage_kWh_3_60;chauffage;kWh;Jour;DIFF;3;60
+eau_froide_m3_3_60;eau_froide;m3;Jour;DIFF;3;60
+eau_froide_m3_3_61;eau_froide;m3;Jour;DIFF;3;61
+ECS_kWh_3_61;ECS;kWh;Jour;DIFF;3;61
+chauffage_kWh_3_61;chauffage;kWh;Jour;DIFF;3;61
+eau_froide_m3_3_62;eau_froide;m3;Jour;DIFF;3;62
+ECS_kWh_3_62;ECS;kWh;Jour;DIFF;3;62
+chauffage_kWh_3_62;chauffage;kWh;Jour;DIFF;3;62
+eau_froide_m3_3_63;eau_froide;m3;Jour;DIFF;3;63
+ECS_kWh_3_63;ECS;kWh;Jour;DIFF;3;63
+chauffage_kWh_3_63;chauffage;kWh;Jour;DIFF;3;63
+eau_froide_m3_3_64;eau_froide;m3;Jour;DIFF;3;64
+ECS_kWh_3_64;ECS;kWh;Jour;DIFF;3;64
+chauffage_kWh_3_64;chauffage;kWh;Jour;DIFF;3;64
