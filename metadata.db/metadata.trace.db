@@ -13,3 +13,33 @@ create table content_service (path varchar(255) not null, content clob, entryDat
 2021-04-15 14:08:10 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
 create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 11:22:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 11:41:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 11:43:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 11:43:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 12:02:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 12:11:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 12:13:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 12:15:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 12:23:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
+2021-04-19 12:39:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTENT_SERVICE" already exists; SQL statement:
+create table content_service (path varchar(255) not null, content clob, entryDate timestamp not null, lastEditor varchar(255) not null, owner varchar(255) not null, reader varchar(255) not null, primary key (path)) [42101-200]
